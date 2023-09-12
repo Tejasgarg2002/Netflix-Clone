@@ -19,7 +19,7 @@
 
 ### Installation
 1. Clone the repository:<br>
-   git clone https://github.com/Tejasgarg2002/netflix-clone.git
+   git clone https://github.com/Tejasgarg2002/netflix-Clone.git
 
 
 2. Navigate to the project directory:<br>
